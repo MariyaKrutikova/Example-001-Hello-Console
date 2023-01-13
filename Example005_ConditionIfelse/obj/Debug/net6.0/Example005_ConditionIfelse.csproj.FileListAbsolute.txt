@@ -1,0 +1,15 @@
+C:\Users\Мария\Desktop\Обучение Java\Examples\Example005_ConditionIfelse\obj\Debug\net6.0\Example005_ConditionIfelse.csproj.AssemblyReference.cache
+C:\Users\Мария\Desktop\Обучение Java\Examples\Example005_ConditionIfelse\obj\Debug\net6.0\Example005_ConditionIfelse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Мария\Desktop\Обучение Java\Examples\Example005_ConditionIfelse\obj\Debug\net6.0\Example005_ConditionIfelse.AssemblyInfoInputs.cache
+C:\Users\Мария\Desktop\Обучение Java\Examples\Example005_ConditionIfelse\obj\Debug\net6.0\Example005_ConditionIfelse.AssemblyInfo.cs
+C:\Users\Мария\Desktop\Обучение Java\Examples\Example005_ConditionIfelse\obj\Debug\net6.0\Example005_ConditionIfelse.csproj.CoreCompileInputs.cache
+C:\Users\Мария\Desktop\Обучение Java\Examples\Example005_ConditionIfelse\bin\Debug\net6.0\Example005_ConditionIfelse.exe
+C:\Users\Мария\Desktop\Обучение Java\Examples\Example005_ConditionIfelse\bin\Debug\net6.0\Example005_ConditionIfelse.deps.json
+C:\Users\Мария\Desktop\Обучение Java\Examples\Example005_ConditionIfelse\bin\Debug\net6.0\Example005_ConditionIfelse.runtimeconfig.json
+C:\Users\Мария\Desktop\Обучение Java\Examples\Example005_ConditionIfelse\bin\Debug\net6.0\Example005_ConditionIfelse.dll
+C:\Users\Мария\Desktop\Обучение Java\Examples\Example005_ConditionIfelse\bin\Debug\net6.0\Example005_ConditionIfelse.pdb
+C:\Users\Мария\Desktop\Обучение Java\Examples\Example005_ConditionIfelse\obj\Debug\net6.0\Example005_ConditionIfelse.dll
+C:\Users\Мария\Desktop\Обучение Java\Examples\Example005_ConditionIfelse\obj\Debug\net6.0\refint\Example005_ConditionIfelse.dll
+C:\Users\Мария\Desktop\Обучение Java\Examples\Example005_ConditionIfelse\obj\Debug\net6.0\Example005_ConditionIfelse.pdb
+C:\Users\Мария\Desktop\Обучение Java\Examples\Example005_ConditionIfelse\obj\Debug\net6.0\Example005_ConditionIfelse.genruntimeconfig.cache
+C:\Users\Мария\Desktop\Обучение Java\Examples\Example005_ConditionIfelse\obj\Debug\net6.0\ref\Example005_ConditionIfelse.dll
